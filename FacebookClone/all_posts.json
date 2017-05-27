@@ -1,0 +1,41 @@
+{
+    "posts": [
+              {
+              "name": "Mark Zuckerberg",
+              "location": {
+              "city": "San Francisco",
+              "state": "CA"
+              },
+              "profileImageName": "zuckprofile",
+              "statusText": "By giving people the power to share, we're making the world more transparent.",
+              "statusImageName": "zuckdog",
+              "numLikes": 150,
+              "numComments": 300,
+              "information": "some information text"
+              },
+              {
+              "name": "Steve Jobs",
+              "location": {
+              "city": "Cupertino",
+              "state": "CA"
+              },
+              "profileImageName": "steve_profile",
+              "statusText": "Design is not just what it looks like and feels like. Design is how it works.\n\nBeing the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something wonderful, that's what matters to me.\n\nSometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
+              "statusImageName": "steve_status",
+              "numLikes": 111,
+              "numComments": 222
+              },
+              {
+              "name": "Mahatma Gandhi",
+              "location": {
+              "city": "Porbandar",
+              "state": "India"
+              },
+              "profileImageName": "gandhi_profile",
+              "statusText": "Live as if you were to die tomorrow; learn as if you were to live forever.\nThe weak can never forgive. Forgiveness is the attribute of the strong.\nHappiness is when what you think, what you say, and what you do are in harmony.",
+              "statusImageName": "gandhi_status",
+              "numLikes": 333,
+              "numComments": 444
+              }
+              ]
+}
